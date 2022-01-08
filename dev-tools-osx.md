@@ -10,3 +10,4 @@
 * Tower - Git client, paid but might be worth it
 * IntelliJ - IDE
 * Visual Studio Code - Text editor with IDE like functionality
+* Dash - API docs and snippets tool, has plugins for popular tools, e.g. intellij
